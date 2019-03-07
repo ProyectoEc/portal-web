@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Donations\n"
+"POT-Creation-Date: 2015-08-25 12:45+0300\n"
+"PO-Revision-Date: 2015-08-25 12:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: templates/archive.php:48
+msgid "Previous page"
+msgstr ""
+
+#: templates/archive.php:49
+msgid "Next page"
+msgstr ""
+
+#: templates/archive.php:50 templates/content-single.php:98
+msgid "Page"
+msgstr ""
+
+#: templates/content-excerpt.php:32 templates/content-single.php:82
+#, php-format
+msgid "Published %s"
+msgstr ""
+
+#: templates/content-excerpt.php:40 templates/content-single.php:33
+msgid "Group goal:"
+msgstr ""
+
+#: templates/content-excerpt.php:41
+msgid "Raised:"
+msgstr ""
+
+#: templates/content-excerpt.php:62 templates/content-excerpt.php:68
+#: trx_donations.php:1105
+msgid "Learn more"
+msgstr ""
+
+#: templates/content-excerpt.php:74 templates/content-single.php:105
+#, php-format
+msgid "Categories: %s"
+msgstr ""
+
+#: templates/content-excerpt.php:75 templates/content-single.php:83
+#: templates/content-single.php:106
+msgid "Edit"
+msgstr ""
+
+#: templates/content-none.php:3
+msgid "No results"
+msgstr ""
+
+#: templates/content-none.php:4
+msgid "We're sorry, but your query did not match"
+msgstr ""
+
+#: templates/content-none.php:5
+#, php-format
+msgid ""
+"Can't find what you need? Take a moment and do a search or start from <a "
+"href=\"%s\">our homepage</a>."
+msgstr ""
+
+#: templates/content-single.php:37
+msgid "Amount raised:"
+msgstr ""
+
+#: templates/content-single.php:43
+msgid "Thank you"
+msgstr ""
+
+#: templates/content-single.php:45
+msgid "Help us attain our goal"
+msgstr ""
+
+#: templates/content-single.php:51
+msgid "Group's supporters to date"
+msgstr ""
+
+#: templates/content-single.php:63
+msgid "Go to the supporter's site"
+msgstr ""
+
+#: templates/content-single.php:72
+#, php-format
+msgid "Supporters number: %s"
+msgstr ""
+
+#: templates/content-single.php:74 trx_donations.php:657
+msgid "No supporters yet"
+msgstr ""
+
+#: templates/content-single.php:94
+msgid "Pages:"
+msgstr ""
+
+#: templates/single.php:23
+msgid "Next"
+msgstr ""
+
+#: templates/single.php:24
+msgid "Next post:"
+msgstr ""
+
+#: templates/single.php:26
+msgid "Previous"
+msgstr ""
+
+#: templates/single.php:27
+msgid "Previous post:"
+msgstr ""
+
+#: trx_donations.php:181 trx_donations.php:186
+msgid "Donations"
+msgstr ""
+
+#: trx_donations.php:182
+msgid "Donation causes"
+msgstr ""
+
+#: trx_donations.php:187
+msgid "Parent Item:"
+msgstr ""
+
+#: trx_donations.php:188
+msgid "All Donations"
+msgstr ""
+
+#: trx_donations.php:189
+msgid "View Donation"
+msgstr ""
+
+#: trx_donations.php:190
+msgid "Add New Donation"
+msgstr ""
+
+#: trx_donations.php:191
+msgid "Add New"
+msgstr ""
+
+#: trx_donations.php:192
+msgid "Edit Donation"
+msgstr ""
+
+#: trx_donations.php:193
+msgid "Update Donation"
+msgstr ""
+
+#: trx_donations.php:194
+msgid "Search Donations"
+msgstr ""
+
+#: trx_donations.php:195
+msgid "Donation not found"
+msgstr ""
+
+#: trx_donations.php:196
+msgid "Donation not found in Trash"
+msgstr ""
+
+#: trx_donations.php:222
+msgid "Search Categories"
+msgstr ""
+
+#: trx_donations.php:223
+msgid "All Categories"
+msgstr ""
+
+#: trx_donations.php:224
+msgid "Parent Category"
+msgstr ""
+
+#: trx_donations.php:225
+msgid "Parent Category:"
+msgstr ""
+
+#: trx_donations.php:226
+msgid "Edit Category"
+msgstr ""
+
+#: trx_donations.php:227
+msgid "Update Category"
+msgstr ""
+
+#: trx_donations.php:228
+msgid "Add New Category"
+msgstr ""
+
+#: trx_donations.php:229
+msgid "New Category Name"
+msgstr ""
+
+#: trx_donations.php:230
+msgid "Category"
+msgstr ""
+
+#: trx_donations.php:252
+msgid "IPN validation failed for a payment"
+msgstr ""
+
+#: trx_donations.php:253
+msgid ""
+"This is a notification email from the TRX Donations plugin letting you know "
+"that a payment verification failed."
+msgstr ""
+
+#: trx_donations.php:255
+msgid ""
+"Please check your paypal account to make sure you received the correct "
+"amount in your account before proceeding"
+msgstr ""
+
+#: trx_donations.php:262 trx_donations.php:887
+msgid "Operation failed! Please, try again later!"
+msgstr ""
+
+#: trx_donations.php:316
+msgid "ThemeREX Donations"
+msgstr ""
+
+#: trx_donations.php:336
+msgid ""
+"Invalid security code! Options not saved. Please, refresh page and try again."
+msgstr ""
+
+#: trx_donations.php:356
+msgid "Options saved!"
+msgstr ""
+
+#: trx_donations.php:364
+msgid "Donations settings"
+msgstr ""
+
+#: trx_donations.php:378
+msgid "PayPal options"
+msgstr ""
+
+#: trx_donations.php:381
+msgid "PayPal account"
+msgstr ""
+
+#: trx_donations.php:384
+msgid "E-mail, used for registration PayPal account."
+msgstr ""
+
+#: trx_donations.php:389
+msgid "Default amount"
+msgstr ""
+
+#: trx_donations.php:392
+msgid "Default value for donation amount."
+msgstr ""
+
+#: trx_donations.php:397
+msgid "Currency"
+msgstr ""
+
+#: trx_donations.php:408
+msgid "Default currency for donation."
+msgstr ""
+
+#: trx_donations.php:413
+msgid "Sandbox"
+msgstr ""
+
+#: trx_donations.php:415
+msgid "Enable sandbox mode"
+msgstr ""
+
+#: trx_donations.php:416
+msgid ""
+"Enable sandbox mode to testing your payments without real money transfer."
+msgstr ""
+
+#: trx_donations.php:421
+msgid "Open PayPal in a new tab"
+msgstr ""
+
+#: trx_donations.php:423
+msgid "Open PayPal in new tab"
+msgstr ""
+
+#: trx_donations.php:424
+msgid ""
+"Open PayPal page in a new tab or replace current page (with donation form)"
+msgstr ""
+
+#: trx_donations.php:433
+msgid "Common options"
+msgstr ""
+
+#: trx_donations.php:436
+msgid "Blog style"
+msgstr ""
+
+#: trx_donations.php:447
+msgid "Default articles style for donations archive page."
+msgstr ""
+
+#: trx_donations.php:452
+msgid "Blog columns"
+msgstr ""
+
+#: trx_donations.php:455
+msgid "Columns number in the donations archive."
+msgstr ""
+
+#: trx_donations.php:460
+msgid "Max supporters showed"
+msgstr ""
+
+#: trx_donations.php:463
+msgid "Max number of supporters to show in the single donation post."
+msgstr ""
+
+#: trx_donations.php:468
+msgid "Socials share"
+msgstr ""
+
+#: trx_donations.php:476
+msgid "Select social networks to enable share articles."
+msgstr ""
+
+#: trx_donations.php:486
+msgid "Theme specific options"
+msgstr ""
+
+#: trx_donations.php:489
+msgid "Columns wrapper class"
+msgstr ""
+
+#: trx_donations.php:492
+msgid ""
+"Class name for columns wrapper, used in the  current theme. If empty - use "
+"internal class."
+msgstr ""
+
+#: trx_donations.php:497
+msgid "Single column class"
+msgstr ""
+
+#: trx_donations.php:500
+msgid ""
+"Class name (mask) for column item, used in the  current theme. If empty - "
+"use internal class."
+msgstr ""
+
+#: trx_donations.php:500
+msgid ""
+"For example: column-$1_$2, where $1 - column width, $2 - total columns: "
+"column-1_4, column-2_3, etc."
+msgstr ""
+
+#: trx_donations.php:506
+msgid "Save options"
+msgstr ""
+
+#: trx_donations.php:520
+msgid "Donation Options"
+msgstr ""
+
+#: trx_donations.php:534
+msgid "Goal"
+msgstr ""
+
+#: trx_donations.php:535
+msgid "Raised"
+msgstr ""
+
+#: trx_donations.php:590
+msgid "Donations details"
+msgstr ""
+
+#: trx_donations.php:591
+msgid "Specify dotations goal and start manually added money to this project"
+msgstr ""
+
+#: trx_donations.php:598
+msgid "Group Goal"
+msgstr ""
+
+#: trx_donations.php:607
+msgid "Manually added"
+msgstr ""
+
+#: trx_donations.php:618
+msgid "Supporters"
+msgstr ""
+
+#: trx_donations.php:619
+msgid "Supporters list for this project"
+msgstr ""
+
+#: trx_donations.php:624 trx_donations.php:960
+msgid "Name"
+msgstr ""
+
+#: trx_donations.php:625 trx_donations.php:945
+msgid "Amount"
+msgstr ""
+
+#: trx_donations.php:626 trx_donations.php:961
+msgid "E-mail"
+msgstr ""
+
+#: trx_donations.php:627
+msgid "Site"
+msgstr ""
+
+#: trx_donations.php:651
+msgid "Total donated"
+msgstr ""
+
+#: trx_donations.php:774
+#, php-format
+msgid "%.2f %s"
+msgstr ""
+
+#: trx_donations.php:792
+msgid "Share:"
+msgstr ""
+
+#: trx_donations.php:891
+msgid "Operation success! Thank you for your donation!"
+msgstr ""
+
+#: trx_donations.php:956
+msgid "Other:"
+msgstr ""
+
+#: trx_donations.php:960
+msgid "Name *"
+msgstr ""
+
+#: trx_donations.php:961
+msgid "E-mail *"
+msgstr ""
+
+#: trx_donations.php:962
+msgid "Website"
+msgstr ""
+
+#: trx_donations.php:963
+msgid "Message (up to 200 characters)"
+msgstr ""
+
+#: trx_donations.php:963
+msgid "Message"
+msgstr ""
+
+#: trx_donations.php:964
+msgid "Show me in the supporters rating"
+msgstr ""
+
+#: trx_donations.php:965
+#, php-format
+msgid ""
+"<b>Please note!</b> Due to the peculiarities of payment confirmation "
+"mechanism in PayPal, in order for your donation to be registered on our "
+"website, you must click on the <b><u>\"Return to %s\"</u></b> link after the "
+"payment on the PayPal payment page. Thank you for your understanding."
+msgstr ""
+
+#: trx_donations.php:966
+msgid "Donation"
+msgstr ""
+
+#: trx_donations.php:1109
+msgid "More donations"
+msgstr ""

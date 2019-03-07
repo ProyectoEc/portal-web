@@ -1,0 +1,125 @@
+/* Settings page
+------------------------------------------------ */
+.trx_donations_options {
+	max-width:1200px;
+	margin:0 20px 0 0;
+	overflow:hidden;
+}
+
+.trx_donations_options_section {
+	padding: 1.5em;
+	margin:3em 0;
+	border: 2px groove #eee;
+	position:relative;
+}
+.trx_donations_options_section_title {
+	position:absolute;
+	top:-0.8em;
+	left: 1em;
+	background-color: #f1f1f1;
+	margin:0;
+	padding:0 1em;
+}
+.trx_donations_options_row {
+	overflow:hidden;
+}
+.trx_donations_options_section .trx_donations_options_row+.trx_donations_options_row {
+	padding-top: 2em;
+	margin-top: 2em;
+	border-top: 1px solid #ddd;
+}
+.trx_donations_options_caption,
+.trx_donations_options_field {
+	float:left;
+}
+.trx_donations_options_caption {
+	width:30%;
+	margin:0;
+}
+.trx_donations_options_field {
+	width:66%;
+	margin-left:4%;
+}
+@media (max-width: 479px) {
+	.trx_donations_options_caption,
+	.trx_donations_options_field {
+		float:none;
+		width:100%;
+		margin:0;
+	}
+	.trx_donations_options_caption {
+		margin-bottom:0.5em;
+	}
+}
+.trx_donations_options_description {
+	font-style:italic;
+	font-size:0.9em;
+	color:#888;
+	margin-top:0.5em;
+}
+.trx_donations_options_field_share label {
+	display:inline-block;
+	width: 30%;
+	margin-right:3%;
+}
+@media (max-width: 767px) {
+	.trx_donations_options_field_share label {
+		width: 47%;
+	}
+}
+
+
+/* Add/Edit post
+------------------------------------------------ */
+
+#trx_donations_meta_box label {
+	display:block;
+}
+
+.trx_donations_meta_title {
+	margin-bottom:0.5em;
+}
+.trx_donations_meta_description {
+	margin-top:0;
+	font-size:0.9231em;
+	font-style:italic;
+}
+
+.trx_donations_meta_socials,
+.trx_donations_meta_money {
+	overflow:hidden;
+}
+.trx_donations_meta_socials_item,
+.trx_donations_meta_money_item {
+	float:left;
+}
+.trx_donations_meta_socials_item + .trx_donations_meta_socials_item,
+.trx_donations_meta_money_item + .trx_donations_meta_money_item {
+	margin-left:20px;
+}
+/* Supporters list */
+.trx_donations_meta_supporters {
+	max-height:600px;
+	overflow:auto;
+}
+.trx_donations_meta_supporters table {
+	border-collapse:collapse;
+	border:1px solid #ddd;
+}
+.trx_donations_meta_supporters th {
+	padding:4px;
+	border:1px solid #ddd;
+	background-color:#f0f0f0;
+}
+.trx_donations_meta_supporters td {
+	padding:2px 4px;
+	border:1px solid #ddd;
+}
+.trx_donations_meta_supporters_title {
+	display:block;
+	font-weight:bold;
+}
+.trx_donations_meta_supporters_message {
+	display:block;
+	font-style:italic;
+}

@@ -1,0 +1,84 @@
+2018-12-30T21:37:56+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/html/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/html/wp-content/plugins/trx_utils/includes/plugin.files.php(308): request_filesystem_credentials('http://sisbioec...', 'ftpext', false, false, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): trx_utils_init_filesystem('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/html/wp-config.php(81): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-admin/includes/file.php on line 1767
+
+2018-12-30T21:40:44+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/html/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/html/wp-content/plugins/trx_utils/includes/plugin.files.php(308): request_filesystem_credentials('http://sisbioec...', 'ftpext', false, false, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): trx_utils_init_filesystem('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/html/wp-config.php(81): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-admin/includes/file.php on line 1767
+
+2018-12-30T21:42:31+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/html/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/html/wp-content/plugins/trx_utils/includes/plugin.files.php(308): request_filesystem_credentials('http://sisbioec...', 'ftpext', false, false, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): trx_utils_init_filesystem('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/html/wp-config.php(81): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-admin/includes/file.php on line 1767
+
+2018-12-30T21:43:24+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/html/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/html/wp-content/plugins/trx_utils/includes/plugin.files.php(308): request_filesystem_credentials('http://sisbioec...', 'ftpext', false, false, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): trx_utils_init_filesystem('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/html/wp-config.php(81): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-admin/includes/file.php on line 1767
+
+2018-12-30T21:43:52+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/html/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/html/wp-content/plugins/trx_utils/includes/plugin.files.php(308): request_filesystem_credentials('http://sisbioec...', 'ftpext', false, false, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): trx_utils_init_filesystem('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/html/wp-config.php(81): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-admin/includes/file.php on line 1767
+
+2018-12-30T21:59:16+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/html/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/html/wp-content/plugins/trx_utils/includes/plugin.files.php(308): request_filesystem_credentials('http://sisbioec...', 'ftpext', false, false, Array)
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): trx_utils_init_filesystem('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/html/wp-config.php(81): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-admin/includes/file.php on line 1767
+

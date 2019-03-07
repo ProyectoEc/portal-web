@@ -1,0 +1,32 @@
+Version 1.5.1
+    Updated plugins to their latest versions
+	Added compatibility https
+
+Version 1.4.2.Dev.01
+	* Fixed favicon
+		\themes\green\header.php
+	* Fixed sorting trx_team
+		\themes\green\fw\shortcodes\shortcodes.php
+
+Version 1.4.2
+- Updated Visual Composer plugin to it's latest version
+- Translation .pot file added
+
+Version 1.4.1
+- Added social login support. 
+- Updated Visual Composer plugin.
+
+Version 1.3
+- Updated Revolution Slider and other plugins to their latest versions
+- Google Map's issue fixed
+
+Version 1.2
+- Updated Visual Composer and other plugins to their latest versions
+
+Version 1.1
+- Fixed styles
+- Fixed problem with custom slider swiper
+- Fixed grammatical error
+- Fixed languages -> default.po
+
+Version 1.0 Release

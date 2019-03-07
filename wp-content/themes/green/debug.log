@@ -1,0 +1,164 @@
+22.05.2018 12:54:13 Attempt 1. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/posts.txt' failed. 
+22.05.2018 12:54:22 Dispatch action: import_start
+22.05.2018 12:54:22 Clear tables
+22.05.2018 12:54:23 Start import from "C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/"
+22.05.2018 12:54:23 AJAX handler finished - send results to client: {"action":"import_start","error":"","start_from_id":0,"result":100}
+22.05.2018 12:54:24 Dispatch action: import_posts
+22.05.2018 12:54:24 Import posts, terms and comments
+22.05.2018 12:54:24 Import dump file: "posts.txt"
+22.05.2018 12:54:24 Attempt 1. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/posts.txt' failed. 
+22.05.2018 12:54:24 AJAX handler finished - send results to client: {"action":"import_posts","error":"","start_from_id":"0","result":0,"attempt":1}
+22.05.2018 12:54:24 Dispatch action: import_posts
+22.05.2018 12:54:24 Import posts, terms and comments
+22.05.2018 12:54:24 Import dump file: "posts.txt"
+22.05.2018 12:54:24 Attempt 2. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/posts.txt' failed. 
+22.05.2018 12:54:24 AJAX handler finished - send results to client: {"action":"import_posts","error":"","start_from_id":"0","result":0,"attempt":2}
+22.05.2018 12:54:25 Dispatch action: import_posts
+22.05.2018 12:54:25 Import posts, terms and comments
+22.05.2018 12:54:25 Import dump file: "posts.txt"
+22.05.2018 12:54:25 Error load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/posts.txt'. 
+Please, try again!
+22.05.2018 12:54:25 Import users
+22.05.2018 12:54:25 Import dump file: "users.txt"
+22.05.2018 12:54:25 Error load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/users.txt'. 
+Please, try again!
+22.05.2018 12:54:25 AJAX handler finished - send results to client: {"action":"import_posts","error":"Error load data from the file 'C:\\OSPanel\\domains\\green1.loc\/wp-content\/themes\/green\/demo\/default\/users.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:54:26 Dispatch action: import_tm
+22.05.2018 12:54:26 Import Theme Options (WP modifications)
+22.05.2018 12:54:26 Attempt 1. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/theme_mods.txt' failed. 
+22.05.2018 12:54:26 AJAX handler finished - send results to client: {"action":"import_tm","error":"","start_from_id":0,"result":0,"attempt":1}
+22.05.2018 12:54:27 Dispatch action: import_tm
+22.05.2018 12:54:27 Import Theme Options (WP modifications)
+22.05.2018 12:54:27 Attempt 2. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/theme_mods.txt' failed. 
+22.05.2018 12:54:27 AJAX handler finished - send results to client: {"action":"import_tm","error":"","start_from_id":0,"result":0,"attempt":2}
+22.05.2018 12:54:28 Dispatch action: import_tm
+22.05.2018 12:54:28 Import Theme Options (WP modifications)
+22.05.2018 12:54:28 Error load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/theme_mods.txt'. 
+Please, try again!
+22.05.2018 12:54:28 AJAX handler finished - send results to client: {"action":"import_tm","error":"Error load data from the file 'C:\\OSPanel\\domains\\green1.loc\/wp-content\/themes\/green\/demo\/default\/theme_mods.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:54:29 Dispatch action: import_to
+22.05.2018 12:54:29 Import Theme Settings
+22.05.2018 12:54:29 Attempt 1. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/theme_options.txt' failed. 
+22.05.2018 12:54:29 AJAX handler finished - send results to client: {"action":"import_to","error":"","start_from_id":0,"result":0,"attempt":1}
+22.05.2018 12:54:29 Dispatch action: import_to
+22.05.2018 12:54:29 Import Theme Settings
+22.05.2018 12:54:30 Attempt 2. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/theme_options.txt' failed. 
+22.05.2018 12:54:30 AJAX handler finished - send results to client: {"action":"import_to","error":"","start_from_id":0,"result":0,"attempt":2}
+22.05.2018 12:54:30 Dispatch action: import_to
+22.05.2018 12:54:30 Import Theme Settings
+22.05.2018 12:54:30 Error load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/theme_options.txt'. 
+Please, try again!
+22.05.2018 12:54:30 AJAX handler finished - send results to client: {"action":"import_to","error":"Error load data from the file 'C:\\OSPanel\\domains\\green1.loc\/wp-content\/themes\/green\/demo\/default\/theme_options.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:54:31 Dispatch action: import_widgets
+22.05.2018 12:54:31 Import Widgets
+22.05.2018 12:54:31 Attempt 1. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/widgets.txt' failed. 
+22.05.2018 12:54:31 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":0,"attempt":1}
+22.05.2018 12:54:32 Dispatch action: import_widgets
+22.05.2018 12:54:32 Import Widgets
+22.05.2018 12:54:32 Attempt 2. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/widgets.txt' failed. 
+22.05.2018 12:54:32 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":0,"attempt":2}
+22.05.2018 12:54:33 Dispatch action: import_widgets
+22.05.2018 12:54:33 Import Widgets
+22.05.2018 12:54:33 Error load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/widgets.txt'. 
+Please, try again!
+22.05.2018 12:54:33 AJAX handler finished - send results to client: {"action":"import_widgets","error":"Error load data from the file 'C:\\OSPanel\\domains\\green1.loc\/wp-content\/themes\/green\/demo\/default\/widgets.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:54:34 Dispatch action: import_uploads
+22.05.2018 12:54:34 Import media
+22.05.2018 12:54:34 Attempt 1. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/uploads.txt' failed. 
+22.05.2018 12:54:34 AJAX handler finished - send results to client: {"action":"import_uploads","error":"","start_from_id":"0","result":0,"attempt":1}
+22.05.2018 12:54:35 Dispatch action: import_uploads
+22.05.2018 12:54:35 Import media
+22.05.2018 12:54:35 Attempt 2. Load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/uploads.txt' failed. 
+22.05.2018 12:54:35 AJAX handler finished - send results to client: {"action":"import_uploads","error":"","start_from_id":"0","result":0,"attempt":2}
+22.05.2018 12:54:35 Dispatch action: import_uploads
+22.05.2018 12:54:35 Import media
+22.05.2018 12:54:35 Error load data from the file 'C:\OSPanel\domains\green1.loc/wp-content/themes/green/demo/default/uploads.txt'. 
+Please, try again!
+22.05.2018 12:54:35 AJAX handler finished - send results to client: {"action":"import_uploads","error":"Error load data from the file 'C:\\OSPanel\\domains\\green1.loc\/wp-content\/themes\/green\/demo\/default\/uploads.txt'. \nPlease, try again!","start_from_id":"0","result":100}
+22.05.2018 12:54:36 Dispatch action: import_thumbnails
+22.05.2018 12:54:36 Regenerate thumbnails
+22.05.2018 12:54:36 AJAX handler finished - send results to client: {"action":"import_thumbnails","error":"","start_from_id":"0","result":100}
+22.05.2018 12:54:37 Dispatch action: import_end
+22.05.2018 12:54:37 AJAX handler finished - send results to client: {"action":"import_end","error":"","start_from_id":0,"result":100}
+22.05.2018 12:56:54 Attempt 1. Load data from the file '/default/posts.txt' failed. 
+22.05.2018 12:56:58 Dispatch action: import_start
+22.05.2018 12:56:58 Clear tables
+22.05.2018 12:56:58 Start import from ""
+22.05.2018 12:56:58 AJAX handler finished - send results to client: {"action":"import_start","error":"","start_from_id":0,"result":100}
+22.05.2018 12:56:59 Dispatch action: import_posts
+22.05.2018 12:56:59 Import posts, terms and comments
+22.05.2018 12:56:59 Import dump file: "posts.txt"
+22.05.2018 12:56:59 Attempt 1. Load data from the file '/default/posts.txt' failed. 
+22.05.2018 12:56:59 AJAX handler finished - send results to client: {"action":"import_posts","error":"","start_from_id":"0","result":0,"attempt":1}
+22.05.2018 12:57:00 Dispatch action: import_posts
+22.05.2018 12:57:00 Import posts, terms and comments
+22.05.2018 12:57:00 Import dump file: "posts.txt"
+22.05.2018 12:57:00 Attempt 2. Load data from the file '/default/posts.txt' failed. 
+22.05.2018 12:57:00 AJAX handler finished - send results to client: {"action":"import_posts","error":"","start_from_id":"0","result":0,"attempt":2}
+22.05.2018 12:57:01 Dispatch action: import_posts
+22.05.2018 12:57:01 Import posts, terms and comments
+22.05.2018 12:57:01 Import dump file: "posts.txt"
+22.05.2018 12:57:01 Error load data from the file '/default/posts.txt'. 
+Please, try again!
+22.05.2018 12:57:01 Import users
+22.05.2018 12:57:01 Import dump file: "users.txt"
+22.05.2018 12:57:01 Error load data from the file '/default/users.txt'. 
+Please, try again!
+22.05.2018 12:57:01 AJAX handler finished - send results to client: {"action":"import_posts","error":"Error load data from the file '\/default\/users.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:57:01 Dispatch action: import_tm
+22.05.2018 12:57:01 Import Theme Options (WP modifications)
+22.05.2018 12:57:01 Attempt 1. Load data from the file '/default/theme_mods.txt' failed. 
+22.05.2018 12:57:01 AJAX handler finished - send results to client: {"action":"import_tm","error":"","start_from_id":0,"result":0,"attempt":1}
+22.05.2018 12:57:02 Dispatch action: import_tm
+22.05.2018 12:57:02 Import Theme Options (WP modifications)
+22.05.2018 12:57:02 Attempt 2. Load data from the file '/default/theme_mods.txt' failed. 
+22.05.2018 12:57:02 AJAX handler finished - send results to client: {"action":"import_tm","error":"","start_from_id":0,"result":0,"attempt":2}
+22.05.2018 12:57:03 Dispatch action: import_tm
+22.05.2018 12:57:03 Import Theme Options (WP modifications)
+22.05.2018 12:57:03 Error load data from the file '/default/theme_mods.txt'. 
+Please, try again!
+22.05.2018 12:57:03 AJAX handler finished - send results to client: {"action":"import_tm","error":"Error load data from the file '\/default\/theme_mods.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:57:04 Dispatch action: import_to
+22.05.2018 12:57:04 Import Theme Settings
+22.05.2018 12:57:04 Attempt 1. Load data from the file '/default/theme_options.txt' failed. 
+22.05.2018 12:57:04 AJAX handler finished - send results to client: {"action":"import_to","error":"","start_from_id":0,"result":0,"attempt":1}
+22.05.2018 12:57:05 Dispatch action: import_to
+22.05.2018 12:57:05 Import Theme Settings
+22.05.2018 12:57:05 Attempt 2. Load data from the file '/default/theme_options.txt' failed. 
+22.05.2018 12:57:05 AJAX handler finished - send results to client: {"action":"import_to","error":"","start_from_id":0,"result":0,"attempt":2}
+22.05.2018 12:57:06 Dispatch action: import_to
+22.05.2018 12:57:06 Import Theme Settings
+22.05.2018 12:57:06 Error load data from the file '/default/theme_options.txt'. 
+Please, try again!
+22.05.2018 12:57:06 AJAX handler finished - send results to client: {"action":"import_to","error":"Error load data from the file '\/default\/theme_options.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:57:07 Dispatch action: import_widgets
+22.05.2018 12:57:07 Import Widgets
+22.05.2018 12:57:07 Attempt 1. Load data from the file '/default/widgets.txt' failed. 
+22.05.2018 12:57:07 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":0,"attempt":1}
+22.05.2018 12:57:07 Dispatch action: import_widgets
+22.05.2018 12:57:07 Import Widgets
+22.05.2018 12:57:08 Attempt 2. Load data from the file '/default/widgets.txt' failed. 
+22.05.2018 12:57:08 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","start_from_id":0,"result":0,"attempt":2}
+22.05.2018 12:57:08 Dispatch action: import_widgets
+22.05.2018 12:57:08 Import Widgets
+22.05.2018 12:57:08 Error load data from the file '/default/widgets.txt'. 
+Please, try again!
+22.05.2018 12:57:08 AJAX handler finished - send results to client: {"action":"import_widgets","error":"Error load data from the file '\/default\/widgets.txt'. \nPlease, try again!","start_from_id":0,"result":100}
+22.05.2018 12:57:09 Dispatch action: import_uploads
+22.05.2018 12:57:09 Import media
+22.05.2018 12:57:09 Attempt 1. Load data from the file '/default/uploads.txt' failed. 
+22.05.2018 12:57:09 AJAX handler finished - send results to client: {"action":"import_uploads","error":"","start_from_id":"0","result":0,"attempt":1}
+22.05.2018 12:57:10 Dispatch action: import_uploads
+22.05.2018 12:57:10 Import media
+22.05.2018 12:57:10 Attempt 2. Load data from the file '/default/uploads.txt' failed. 
+22.05.2018 12:57:10 AJAX handler finished - send results to client: {"action":"import_uploads","error":"","start_from_id":"0","result":0,"attempt":2}
+22.05.2018 12:57:11 Dispatch action: import_uploads
+22.05.2018 12:57:11 Import media
+22.05.2018 12:57:11 Error load data from the file '/default/uploads.txt'. 
+Please, try again!
+22.05.2018 12:57:11 AJAX handler finished - send results to client: {"action":"import_uploads","error":"Error load data from the file '\/default\/uploads.txt'. \nPlease, try again!","start_from_id":"0","result":100}
+22.05.2018 12:57:12 Dispatch action: import_thumbnails
+22.05.2018 12:57:12 Regenerate thumbnails
+22.05.2018 12:57:12 AJAX handler finished - send results to client: {"action":"import_thumbnails","error":"","start_from_id":"0","result":100}
+22.05.2018 12:57:12 Dispatch action: import_end
+22.05.2018 12:57:13 AJAX handler finished - send results to client: {"action":"import_end","error":"","start_from_id":0,"result":100}

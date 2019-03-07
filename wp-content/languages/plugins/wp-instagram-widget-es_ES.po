@@ -1,0 +1,113 @@
+# Translation of Plugins - WP Instagram Widget - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP Instagram Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-06 08:24:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP Instagram Widget - Stable (latest release)\n"
+
+#: wp-instagram-widget.php:158
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: wp-instagram-widget.php:160
+msgid "Large"
+msgstr "Grande"
+
+#: wp-instagram-widget.php:153
+msgid "Title"
+msgstr "Título"
+
+#: wp-instagram-widget.php:154
+msgid "@username or #tag"
+msgstr "@usuario o #etiqueta"
+
+#. Author URI of the plugin/theme
+msgid "https://scott.ee"
+msgstr "https://scott.ee"
+
+#. Author of the plugin/theme
+msgid "Scott Evans"
+msgstr "Scott Evans"
+
+#. Description of the plugin/theme
+msgid "A WordPress widget for showing your latest Instagram photos."
+msgstr "Un widget de WordPress para mostrar tus últimas imágenes de Instagram."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/scottsweb/wp-instagram-widget"
+msgstr "https://github.com/scottsweb/wp-instagram-widget"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Instagram Widget"
+msgstr "WP Instagram Widget"
+
+#: wp-instagram-widget.php:276
+msgid "Instagram did not return any images."
+msgstr "Instagram no devolvió imágenes."
+
+#: wp-instagram-widget.php:244
+msgid "Instagram Image"
+msgstr "Imagen de Instagram"
+
+#: wp-instagram-widget.php:220 wp-instagram-widget.php:228
+#: wp-instagram-widget.php:232
+msgid "Instagram has returned invalid data."
+msgstr "Instagram ha devuelto datos no válidos."
+
+#: wp-instagram-widget.php:212
+msgid "Instagram did not return a 200."
+msgstr "Instagram no ha devuelto un 200."
+
+#: wp-instagram-widget.php:208
+msgid "Unable to communicate with Instagram."
+msgstr "Imposible comunicar con Instagram."
+
+#: wp-instagram-widget.php:170
+msgid "Link text"
+msgstr "Texto del enlace"
+
+#: wp-instagram-widget.php:167
+msgid "New window (_blank)"
+msgstr "Nueva ventana/pestaña (_blank)"
+
+#: wp-instagram-widget.php:166
+msgid "Current window (_self)"
+msgstr "Misma ventana/pestaña (_self)"
+
+#: wp-instagram-widget.php:164
+msgid "Open links in"
+msgstr "Abrir enlaces en"
+
+#: wp-instagram-widget.php:161
+msgid "Original"
+msgstr "Original"
+
+#: wp-instagram-widget.php:159
+msgid "Small"
+msgstr "Pequeña"
+
+#: wp-instagram-widget.php:156
+msgid "Photo size"
+msgstr "Tamaño de imagen"
+
+#: wp-instagram-widget.php:155
+msgid "Number of photos"
+msgstr "Número de imagenes"
+
+#: wp-instagram-widget.php:142
+msgid "Follow Me!"
+msgstr "¡Sígueme!"
+
+#: wp-instagram-widget.php:56
+msgid "Displays your latest Instagram photos"
+msgstr "Muestra tus últimas imágenes de Instagram"
+
+#: wp-instagram-widget.php:53 wp-instagram-widget.php:139
+msgid "Instagram"
+msgstr "Instagram"
